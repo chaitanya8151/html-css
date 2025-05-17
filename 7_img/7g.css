@@ -1,0 +1,25 @@
+.prof-pic{
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 5px;
+  vertical-align: middle;
+}
+.text-box{
+  font-size: 18px;
+  width: 300px;
+  border: none;
+  vertical-align: middle;
+}
+.tweet-btn{
+  color: white;
+  border: none;
+  background-color: rgb(29, 155, 240);
+  padding: 8px 15px;
+  border-radius: 28px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 16px;
+  vertical-align: middle;
+}
