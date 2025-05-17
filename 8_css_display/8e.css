@@ -1,0 +1,32 @@
+.title{
+  font-size: 32px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+input{
+  display: block;
+  background-color: rgb(240, 240, 240);
+  padding: 15px 20px;
+  width: 360px;
+  margin-bottom: 10px;
+  border: none;
+  font-size: 16px;
+}
+.destination-box{
+  margin-bottom: 30px;
+}
+.req-btn{
+  background-color: black;
+  color:white;
+  padding: 12px 20px;
+  border: none;
+  cursor: pointer;
+  margin-right: 10px;
+}
+.later-btn{
+  background-color: rgb(240, 240, 240);
+  border: none;
+  padding: 12px 20px;
+  cursor: pointer;
+}
