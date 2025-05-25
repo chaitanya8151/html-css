@@ -1,0 +1,33 @@
+p{
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+.header{
+  display: flex;
+  background-color: rgb(120, 82, 178);
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 15px;
+}
+.home-link{
+  font-weight: bold;
+  color: white;
+  
+}
+.text-box{
+  width: 500px;
+  margin: 12px 0;
+  height: 30px;
+  border-radius: 15px;
+  border: none;
+  padding-left: 20px;
+}
+button{
+  background-color: rgb(120, 82, 178);
+  color: white;
+  border: 1px solid white;
+  font-size: 16px;
+  padding: 8px 15px;
+  border-radius: 2px;
+}
